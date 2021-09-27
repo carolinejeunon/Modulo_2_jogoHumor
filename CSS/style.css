@@ -1,0 +1,59 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: #fcf0ee;
+    text-align: center;
+    font-family: Verdana;
+    font-weight:bold;
+}
+
+header{
+    background-color: #f1bfb5
+}
+
+h2{
+    color: #f1bfb5    
+}
+
+main{
+    text-align: center;
+}
+
+button{
+  border:2px solid #25692A;
+  border-radius:18px;
+  display:inline-block;
+  cursor:pointer;
+  font-family:Verdana;
+  font-weight:regular;
+  font-size:13px;
+  padding:6px 10px;
+  text-decoration:none;
+}
+
+.bt{
+  border-color:#efb2a6;
+  background:linear-gradient(to bottom, #fcf0ee 5%, #efb2a6  100%);
+  box-shadow:inset 0px 1px 0px 0px #fcf0ee;
+  color:#d94f34;
+  text-shadow:0px 1px 0px #f4cbc3;
+}
+
+#humor{
+  color:#dc5c42;
+  font-weight:bold;
+  font-family:Verdana;
+  font-size:18px;
+}
+
+#imagem1{
+  color:#dc5c42;
+  font-weight:regular;
+  font-family:Verdana;
+  font-size:15px;
+}
